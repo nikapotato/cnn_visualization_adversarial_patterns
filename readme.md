@@ -6,4 +6,4 @@ This study involves several key tasks:
 - Using gradient calculations to visualize where the network focuses its attention
 - Crafting targeted adversarial attacks to test how easily the network can be "fooled"
 
-More detailed report can be found [here](https://github.com/nikapotato/cnn_visualization_adversarial_patterns#:~:text=yesterday-,readme.md,-add%20adversarial%20patterns).
+More detailed report can be found [here](https://github.com/nikapotato/cnn_visualization_adversarial_patterns/blob/main/report.ipynb).
